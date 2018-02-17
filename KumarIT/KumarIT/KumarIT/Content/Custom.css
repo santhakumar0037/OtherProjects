@@ -1,0 +1,94 @@
+﻿body {
+    margin: 0px;
+    background-color: #ffffff;
+ 
+}
+#navbaralign {
+margin-left:75%;
+}
+#navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 22%;
+    width: 20%;
+    float: left;
+    background-color: #e9ecef;
+    opacity: 0.8;
+    font-weight: bold;
+    line-height: 45px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+#navbar:hover {
+        font-size: 18pt;
+        -webkit-transform: scale(1.4);
+        transform: scale(1.4);
+    }
+.cursor {
+cursor:pointer;
+}
+#pageOne {
+    margin-top:0%;
+    background-color: #4885ed;
+    height:100vh;
+}
+#pageTwo {
+    background-color: #db3236;
+    height: 100vh;
+}
+#pageThree {
+    background-color: #f4c20d;
+    height: 100vh;
+}
+.jumbomargin {
+    margin-top:6%;
+    margin-left:5%;
+    margin-right: 30%;
+}
+
+#lineHeight {
+    line-height: 4em;
+    font-weight: bold;
+    font-size: 16pt;
+    text-align:right;  
+}
+   
+.arrowMargin {
+    margin-left: 45%;
+    margin-top:0;
+    position: fixed;
+}
+.downarrow,
+.uparrow {
+    position:relative;
+    width:70px;
+    height:70px;  
+    transition: .5s;
+    float:left;
+    box-shadow: -10px 10px 0 rgba(255,255,255,.5);
+    cursor:pointer;
+    animation: bouncearrow 1s infinite;
+}
+.downarrow {
+    transform: rotate(-45deg);
+}
+.downarrow:hover {
+        box-shadow: -10px 10px 0 rgba(255,255,255,1)
+    }
+
+@keyframes bouncearrow {
+    0% {top:0px;}
+    50% {top:20px;}
+    100%{top:0px;}
+}
+
+.nextpage {
+margin-top:8% !important;
+}
+.heading {
+font-size:24px;
+font-weight:bold;
+}
+
