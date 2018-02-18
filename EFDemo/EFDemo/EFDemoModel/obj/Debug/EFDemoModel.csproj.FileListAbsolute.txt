@@ -1,0 +1,11 @@
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\bin\Debug\EFDemoModel.dll.config
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\bin\Debug\EFDemoModel.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\bin\Debug\EFDemoModel.pdb
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\bin\Debug\EntityFramework.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\bin\Debug\EntityFramework.xml
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\obj\Debug\EFDemoModel.csprojResolveAssemblyReference.cache
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\obj\Debug\EFDemoModel.csproj.CoreCompileInputs.cache
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\obj\Debug\EFDemoModel.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EFDemoModel\obj\Debug\EFDemoModel.pdb

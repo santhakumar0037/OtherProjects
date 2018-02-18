@@ -1,0 +1,16 @@
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EmployeeWebApp.dll.config
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EmployeeWebApp.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EmployeeWebApp.pdb
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EFDemoModel.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EntityFramework.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EFDemoModel.pdb
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EFDemoModel.dll.config
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EntityFramework.xml
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\obj\Debug\EmployeeWebApp.csprojResolveAssemblyReference.cache
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\obj\Debug\EmployeeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\obj\Debug\EmployeeWebApp.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeWebApp\obj\Debug\EmployeeWebApp.pdb

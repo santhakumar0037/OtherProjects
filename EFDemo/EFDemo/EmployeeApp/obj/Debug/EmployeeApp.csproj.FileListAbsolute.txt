@@ -1,0 +1,14 @@
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EFDemoModel.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EntityFramework.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EFDemoModel.pdb
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EFDemoModel.dll.config
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EntityFramework.xml
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\kam\Desktop\EFDemo\EFDemo\EmployeeApp\obj\Debug\EmployeeApp.pdb
